@@ -1,7 +1,7 @@
 package kz.madizhaksykeldi.crudshop.mapper.order;
 
+import kz.madizhaksykeldi.crudshop.dto.order.OrderProduct;
 import kz.madizhaksykeldi.crudshop.transactions.Order;
-import kz.madizhaksykeldi.crudshop.transactions.OrderProduct;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
